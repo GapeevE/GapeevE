@@ -2,11 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<style>
-    .image-logo { border-radius: 100%;}
-</style>
 <div class="header">
     <h1>Профиль</h1>
     <img src='logo.jpg' alt='...' class="image-logo" />
