@@ -10,7 +10,7 @@
     <img src='./' alt='...' />
     <p>Гапеев Егор</p>
 </div>
-<div class="main">
+<div class="main" style='display: flex; flex-direction: column'>
     <h2>Образование</h2>
     <h6>Место учёбы</h6>
     <p>Колледж при АГУ, г. Барнаул</p>
