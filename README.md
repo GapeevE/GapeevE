@@ -56,6 +56,6 @@
         <li>JS</li>
     </ul>
     <h6>Материалы проекта</h6>
-    <a href=''>Ссылка</a>
+    <a href='https://github.com/GapeevE/sneakerMax'>Ссылка</a>
 </body>
 </html>
