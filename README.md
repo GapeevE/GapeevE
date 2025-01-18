@@ -7,7 +7,7 @@
 
 <div class="header">
     <h1>Профиль</h1>
-    <img src='./' alt='...' />
+    <img src='logo.jpg' alt='...' />
     <p>Гапеев Егор</p>
 </div>
 <div class="main">
