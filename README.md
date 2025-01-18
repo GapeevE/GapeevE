@@ -4,10 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+<style>
+    .image-logo { border-radius: 100%;}
+</style>
 <div class="header">
     <h1>Профиль</h1>
-    <img src='logo.jpg' alt='...' />
+    <img src='logo.jpg' alt='...' class="image-logo" />
     <p>Гапеев Егор</p>
 </div>
 <div class="main">
