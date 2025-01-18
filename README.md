@@ -24,6 +24,8 @@
         <li>PHP</li>
         <li>SQL</li>
     </ul>
-    
+    <h2>Контактная информация</h2>
+    <a href='https://t.me/egor_gapeev'>Мой телеграм</a>
+    <a href=''>Моя почта</a>
 </body>
 </html>
