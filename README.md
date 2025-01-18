@@ -47,5 +47,15 @@
     <h6>Материалы</h6>
     <a href='https://github.com/VladDyshlyuk/hacks-ai-tinkoff-bot-awildsheepchase'>Ссылка на решение</a>
     <a href='sertificate2.pdf'>Сертификат</a>
+    <h2>Проекты</h2>
+    <h4>Интерфейс сайта для Обувного Магазина</h4>
+    <h6>Стек</h6>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+    </ul>
+    <h6>Материалы проекта</h6>
+    <a href=''>Ссылка</a>
 </body>
 </html>
