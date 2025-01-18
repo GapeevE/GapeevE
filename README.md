@@ -23,6 +23,13 @@
         <li>PHP</li>
         <li>SQL</li>
     </ul>
+    <h6>Курсы</h6>
+    <ul>
+        <li>Введение в искуственные нейронные сети (<a href='stepik_1.pdf'>сертификат</a>)</li>
+        <li>Основы статистики (<a href='stepik_2.pdf'>сертификат</a>)</li>
+        <li>Быстрый старт в FastAPI Python (<a href='stepik_3.pdf'>сертификат</a>)</li>
+        <li>Машинное обучение (<a href='stepik_4.pdf'>сертификат</a>)</li>
+    </ul>
     <h2>Контактная информация</h2>
     <h6>Telegram: @egor_gapeev</h6>
     <a href='https://t.me/egor_gapeev'>Мой телеграм</a>
