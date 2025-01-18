@@ -25,7 +25,9 @@
         <li>SQL</li>
     </ul>
     <h2>Контактная информация</h2>
-    <a href='https://t.me/egor_gapeev' style='widht: 100%'>Мой телеграм</a>
+    <h6>Telegram: @egor_gapeev</h6>
+    <a href='https://t.me/egor_gapeev'>Мой телеграм</a>
+    <h6>Gmail: gapeev.105s9@gmail.com</h6>
     <a href='mailto:gapeev.105s9@gmail.com'>Моя почта</a>
 </body>
 </html>
