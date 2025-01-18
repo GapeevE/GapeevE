@@ -46,6 +46,6 @@
     <p>TOP-5</p>
     <h6>Материалы</h6>
     <a href='https://github.com/VladDyshlyuk/hacks-ai-tinkoff-bot-awildsheepchase'>Ссылка на решение</a>
-    <a href='./'>Сертификат</a>
+    <a href='./media/sertificate.pdf'>Сертификат</a>
 </body>
 </html>
