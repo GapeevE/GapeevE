@@ -3,6 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .tech-icon {
+            display: inline-flex;
+            align-items: center;
+            background: #e2e8f0;
+            border-radius: 4px;
+            padding: 4px 10px;
+            margin: 4px;
+            font-size: 0.9em;
+        }
+        .tech-icon::before {
+            margin-right: 6px;
+        }
+    </style>
 </head>
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px;">
     <div style="text-align: center; margin-bottom: 30px;">
@@ -18,15 +32,17 @@
     </div>
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
         <h2 style="color: #4a5568; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px;">🛠️ Technical Skills</h2>
-        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">HTML5</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">CSS3</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">JavaScript</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">PHP</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">SQL</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">Tailwind</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">Bootstrap</div>
-            <div style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">jQuery</div>
+        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap;">
+            <div class="tech-icon"><img src="./assets/icons/HTML5.png" /> HTML5</div>
+            <div class="tech-icon"><img src="./assets/icons/CSS3.png" /> CSS3</div>
+            <div class="tech-icon"><img src="./assets/icons/ts.png" /> TypeScript</div>
+            <div class="tech-icon"><img src="./assets/icons/php.png" /> PHP</div>
+            <div class="tech-icon"><img src="./assets/icons/sql.png" /> SQL</div>
+            <div class="tech-icon"><img src="./assets/icons/tailwind.png" /> Tailwind CSS</div>
+            <div class="tech-icon"><img src="./assets/icons/bootstrap.png" /> Bootstrap</div>
+            <div class="tech-icon"><img src="./assets/icons/jquery.png" /> jQuery</div>
+            <div class="tech-icon"><img src="./assets/icons/react.png" /> React</div>
+            <div class="tech-icon"><img src="./assets/icons/py.png" /> Python</div>
         </div>
     </div>
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
