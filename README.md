@@ -21,23 +21,23 @@
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap; flex-direction: row;">
             <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center; margin-right: 20px;">
                 <h5>Frontend</h5>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/HTML5.png" style="width:20px;height:20px;margin-right:6px;"> HTML5</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/CSS3.png" style="width:20px;height:20px;margin-right:6px;"> CSS3</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/ts.png" style="width:20px;height:20px;margin-right:6px;"> TypeScript</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/tailwind.png" style="width:20px;height:20px;margin-right:6px;"> Tailwind CSS</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/bootstrap.png" style="width:20px;height:20px;margin-right:6px;"> Bootstrap</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/jquery.png" style="width:20px;height:20px;margin-right:6px;"> jQuery</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/react.png" style="width:20px;height:20px;margin-right:6px;"> React</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/HTML5.png" style="height:20px;margin-right:6px;"> HTML5</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/CSS3.png" style="height:20px;margin-right:6px;"> CSS3</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/ts.png" style="height:20px;margin-right:6px;"> TypeScript</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/tailwind.png" style="height:20px;margin-right:6px;"> Tailwind CSS</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/bootstrap.png" style="height:20px;margin-right:6px;"> Bootstrap</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/jquery.png" style="height:20px;margin-right:6px;"> jQuery</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/react.png" style="height:20px;margin-right:6px;"> React</div>
             </div>
             <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center; margin-right: 20px;">
                 <h5>Backend</h5>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/php.png" style="width:20px;height:20px;margin-right:6px;"> PHP</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/node.png" style="width:20px;height:20px;margin-right:6px;"> Node.js</div>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/sql.png" style="width:20px;height:20px;margin-right:6px;"> SQL</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/php.png" style="height:20px;margin-right:6px;"> PHP</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/node.png" style="height:20px;margin-right:6px;"> Node.js</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/sql.png" style="height:20px;margin-right:6px;"> SQL</div>
             </div>
             <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center;">
                 <h5>AI/Data Science</h5>
-                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/py.png" style="width:20px;height:20px;margin-right:6px;"> Python</div>
+                <div style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 4px 10px; margin: 4px; font-size: 0.9em;"><img src="./assets/icons/py.png" style="height:20px;margin-right:6px;"> Python</div>
             </div>
         </div>
     </div>
@@ -93,10 +93,10 @@
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
             <h4 style="color: #4a5568; margin-top: 5px;">Crypto Brains</h4>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/react.png" style="width:20px;height:20px;margin-right:4px;"> React</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/tailwind.png" style="width:20px;height:20px;margin-right:4px;"> Tailwind CSS</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ts.png" style="width:20px;height:20px;margin-right:4px;"> TypeScript</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/gecko.png" style="width:20px;height:20px;margin-right:4px;"> CoinGecko API</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/react.png" style="height:20px;margin-right:4px;"> React</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/tailwind.png" style="height:20px;margin-right:4px;"> Tailwind CSS</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ts.png" style="height:20px;margin-right:4px;"> TypeScript</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/gecko.png" style="height:20px;margin-right:4px;"> CoinGecko API</span>
             </p>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
                 <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/CryptoBrains'>View Project</a>
@@ -117,12 +117,12 @@
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
             <h4 style="color: #4a5568; margin-top: 5px;">Telegram Bot with RAG-based AI for University Applicants Assistance</h4>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/py.png" style="width:20px;height:20px;margin-right:4px;"> Python</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/fastapi.png" style="width:20px;height:20px;margin-right:4px;"> FastAPI</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ollama.png" style="width:20px;height:20px;margin-right:4px;"> Ollama</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/langchain.png" style="width:20px;height:20px;margin-right:4px;"> LangChain</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/chroma.png" style="width:20px;height:20px;margin-right:4px;"> Chroma DB</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/bs4.png" style="width:20px;height:20px;margin-right:4px;"> Beautiful Soup</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/py.png" style="height:20px;margin-right:4px;"> Python</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/fastapi.png" style="height:20px;margin-right:4px;"> FastAPI</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ollama.png" style="height:20px;margin-right:4px;"> Ollama</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/langchain.png" style="height:20px;margin-right:4px;"> LangChain</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/chroma.png" style="height:20px;margin-right:4px;"> Chroma DB</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/bs4.png" style="height:20px;margin-right:4px;"> Beautiful Soup</span>
             </p>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
                 <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/ai-chatbot-asu'>View Project</a>
@@ -141,10 +141,10 @@
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
             <h4 style="color: #4a5568; margin-top: 5px;">RUMTIBET</h4>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png" style="width:20px;height:20px;margin-right:4px;"> HTML5</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png" style="width:20px;height:20px;margin-right:4px;"> CSS3</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png" style="width:20px;height:20px;margin-right:4px;"> JS</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/jquery.png" style="width:20px;height:20px;margin-right:4px;"> jQuery</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png" style="height:20px;margin-right:4px;"> HTML5</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png" style="height:20px;margin-right:4px;"> CSS3</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png" style="height:20px;margin-right:4px;"> JS</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/jquery.png" style="height:20px;margin-right:4px;"> jQuery</span>
             </p>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
                 <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/rumTibet'>View Project</a>
@@ -165,11 +165,11 @@
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
             <h4 style="color: #4a5568; margin-top: 5px;">Tortotoro - Pastry Shop Management System</h4>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png" style="width:20px;height:20px;margin-right:4px;"> HTML5</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png" style="width:20px;height:20px;margin-right:4px;"> CSS3</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png" style="width:20px;height:20px;margin-right:4px;"> JS</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/php.png" style="width:20px;height:20px;margin-right:4px;"> PHP</span>
-                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/mysql.png" style="width:20px;height:20px;margin-right:4px;"> MySQL</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png" style="height:20px;margin-right:4px;"> HTML5</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png" style="height:20px;margin-right:4px;"> CSS3</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png" style="height:20px;margin-right:4px;"> JS</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/php.png" style="height:20px;margin-right:4px;"> PHP</span>
+                <span style="display: inline-flex; align-items: center; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/mysql.png" style="height:20px;margin-right:4px;"> MySQL</span>
             </p>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
                 <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/Tortotoro'>View Project</a>
