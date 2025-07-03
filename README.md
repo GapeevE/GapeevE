@@ -26,23 +26,33 @@
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
         <h2 style="color: #4a5568; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px;">🎓 Education</h2>
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-            <h4 style="color: #4a5568; margin-top: 5px;">🏫 College at AltSU, Barnaul, Russia</h4>
-            <p><span style="font-size: 1.2em; margin-right: 5px;">📚</span> Web and Multimedia Applications Developer (4th year student)</p>
+            <h4 style="color: #4a5568; margin-top: 5px;">🏫 AltSU College, Barnaul, Russia</h4>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">📚</span> 09.02.07 Information Systems and Programming (Web and Multimedia Applications Developer)</p>
         </div>
     </div>
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
         <h2 style="color: #4a5568; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px;">🛠️ Technical Skills</h2>
-        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap;">
-            <div class="tech-icon"><img src="./assets/icons/HTML5.png" /> HTML5</div>
-            <div class="tech-icon"><img src="./assets/icons/CSS3.png" /> CSS3</div>
-            <div class="tech-icon"><img src="./assets/icons/ts.png" /> TypeScript</div>
-            <div class="tech-icon"><img src="./assets/icons/php.png" /> PHP</div>
-            <div class="tech-icon"><img src="./assets/icons/sql.png" /> SQL</div>
-            <div class="tech-icon"><img src="./assets/icons/tailwind.png" /> Tailwind CSS</div>
-            <div class="tech-icon"><img src="./assets/icons/bootstrap.png" /> Bootstrap</div>
-            <div class="tech-icon"><img src="./assets/icons/jquery.png" /> jQuery</div>
-            <div class="tech-icon"><img src="./assets/icons/react.png" /> React</div>
-            <div class="tech-icon"><img src="./assets/icons/py.png" /> Python</div>
+        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap; flex-direction: row;">
+            <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center;">
+                <h5>Frontend</h5>
+                <div class="tech-icon"><img src="./assets/icons/HTML5.png" /> HTML5</div>
+                <div class="tech-icon"><img src="./assets/icons/CSS3.png" /> CSS3</div>
+                <div class="tech-icon"><img src="./assets/icons/ts.png" /> TypeScript</div>
+                <div class="tech-icon"><img src="./assets/icons/tailwind.png" /> Tailwind CSS</div>
+                <div class="tech-icon"><img src="./assets/icons/bootstrap.png" /> Bootstrap</div>
+                <div class="tech-icon"><img src="./assets/icons/jquery.png" /> jQuery</div>
+                <div class="tech-icon"><img src="./assets/icons/react.png" /> React</div>
+            </div>
+            <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center;">
+                <h5>Backend</h5>
+                <div class="tech-icon"><img src="./assets/icons/php.png" /> PHP</div>
+                <div class="tech-icon"><img src="./assets/icons/node.png" /> Node.js</div>
+                <div class="tech-icon"><img src="./assets/icons/sql.png" /> SQL</div>
+            </div>
+            <div style="display: flex; flex-wrap: wrap; flex-direction: column; align-items: center; justify-content: center;">
+                <h5>AI/Data Science</h5>
+                <div class="tech-icon"><img src="./assets/icons/py.png" /> Python</div>
+            </div>
         </div>
     </div>
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -95,15 +105,96 @@
     <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
         <h2 style="color: #4a5568; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px;">💻 Projects</h2>
         <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-            <h4 style="color: #4a5568; margin-top: 5px;">👟 SneakerMax - E-commerce Website</h4>
+            <h4 style="color: #4a5568; margin-top: 5px;">Crypto Brains</h4>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
-                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">HTML</span>
-                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">CSS</span>
-                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;">JavaScript</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/react.png"> React</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/tailwind.png"> Tailwind CSS</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ts.png"> TypeScript</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/gecko.png"> CoinGecko API</span>
             </p>
             <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
-                <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/sneakerMax'>View Project</a>
+                <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/CryptoBrains'>View Project</a>
+                <span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>Live Demo:</strong> 
+                <a style="color: #3182ce; text-decoration: none;" href='https://crypto-brains.vercel.app/'>View Demo</a>
             </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Description:</strong>
+                Real-time cryptocurrency price monitoring with 3D visualization.
+            </p> 
+            <ul><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Features:</strong>
+                <li>Responsive design</li>
+                <li>D3.js data visualization</li>
+                <li>Live API data updates</li>
+                <li>Interactive charts</li>
+            </ul>
+        </div>
+        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+            <h4 style="color: #4a5568; margin-top: 5px;">Telegram Bot with RAG-based AI for University Applicants Assistance</h4>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/py.png"> Python</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/fastapi.png"> FastAPI</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/ollama.png"> Ollama</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/langchain.png"> LangChain</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/chroma.png"> Chroma DB</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/bs4.png"> Beautiful Soup</span>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
+                <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/ai-chatbot-asu'>View Project</a>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Description:</strong>
+                System scrapes university website data, processes it, and stores in vector DB. LLM generates contextual responses using RAG architecture.
+            </p> 
+            <ul><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Features:</strong>
+                <li>Document vectorization and storage</li>
+                <li>k-NN semantic search</li>
+                <li>Contextual response generation</li>
+                <li>Telegram API integration</li>
+            </ul>
+        </div>
+        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+            <h4 style="color: #4a5568; margin-top: 5px;">RUMTIBET</h4>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png"> HTML5</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png"> CSS3</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png"> JS</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/jquery.png"> jQuery</span>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
+                <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/rumTibet'>View Project</a>
+                <span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>Live Demo:</strong>
+                <a style="color: #3182ce; text-decoration: none;" href='https://gapeeve.github.io/rumTibet/'>View Demo</a>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Description:</strong>
+                Responsive landing page with interactive travel information.
+            </p> 
+            <ul><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Features:</strong>
+                <li>Mobile-first design</li>
+                <li>Animated sliders</li>
+                <li>Modal windows and forms</li>
+                <li>Multimedia integration</li>
+            </ul>
+        </div>
+        <div style="background: white; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+            <h4 style="color: #4a5568; margin-top: 5px;">Tortotoro - Pastry Shop Management System</h4>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Tech Stack:</strong> 
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/HTML5.png"> HTML5</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/CSS3.png"> CSS3</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/JS.png"> JS</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/php.png"> PHP</span>
+                <span style="display: inline-block; background: #e2e8f0; border-radius: 4px; padding: 2px 8px; margin: 2px; font-size: 0.85em;"><img src="./assets/icons/mysql.png"> MySQL</span>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🔗</span> <strong>GitHub:</strong> 
+                <a style="color: #3182ce; text-decoration: none;" href='https://github.com/GapeevE/Tortotoro'>View Project</a>
+            </p>
+            <p><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Description:</strong>
+                CRM for staff management, shift scheduling, and order tracking.
+            </p> 
+            <ul><span style="font-size: 1.2em; margin-right: 5px;">🛠️</span> <strong>Features:</strong>
+                <li>Employee administration</li>
+                <li>Shift management</li>
+                <li>Real-time order tracking</li>
+                <li>Secure data handling</li>
+                <li>Error logging</li>
+            </ul>
         </div>
     </div>
 </body>
